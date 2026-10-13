@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+ai_sql_env/
+query_history.sqlite3
+
